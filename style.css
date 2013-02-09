@@ -99,7 +99,7 @@ body {
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
 .ie {background: url(http://collider.com/wp-content/uploads/brave-wisp-closeup1.jpg) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
+.fx {background: url(http://1.bp.blogspot.com/-j8zJIJLZVoI/T-SJUS0CWcI/AAAAAAABVcs/5TcTsWcXu14/s1600/brave+triplets.jpg) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
 .op {background: url(./images/op.png) no-repeat; background-size: contain;}
